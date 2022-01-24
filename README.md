@@ -1,19 +1,44 @@
-# Markdown Portfolio
+# My Markdown Portfolio
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+Hi! My name is Eun Jin, and this is my Markdown Portfolio [(=^･ω･^=)](https://github.com/kejland)
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### Instructions
+![kitty](https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+
+**Here is a random list of things that I like:**
+- Ice cream
+- Cake
+- Barley Tea
+- Omija Sangria Tea
+
+**If I had to order them from best to worst, it would be:**
+1. Barley Tea
+2. Ice cream
+3. Cake
+4. Barley Tea
+
+```
+
+Although barley tea may not sound very exciting, I consider it to be water.
+And I cannot survive without water, therefore making it number 1.
+
+```
+
+
+**Here is a random table rating the Haagen Daz ice cream flavours that I have tried:**
+
+| Haagen Daz Ice cream flavour | My Rating |
+| :--- | :---: |
+| Caramel Buscuit & Cream | 20/10 |
+| Vanilla | 11/10 |
+| Coffee | 9/10 |
+| Dulche del leche | 8/10 |
+| Strawberry | 8/10 |
+| Irish Cream & Brownie | 7/10 |
+| Green Tea | 3/10 |
+| Green Tea and Mochi | -2/10 |
+
+
+# Thank you for reading through my random lists and rating! ![paw](https://images.unsplash.com/photo-1606425271394-c3ca9aa1fc06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+
